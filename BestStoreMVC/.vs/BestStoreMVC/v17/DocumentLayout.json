@@ -3,20 +3,28 @@
   "WorkspaceRootPath": "D:\\Work with Shykat vai\\CRUD operation using ASP.NET core MVC\\BestStoreMVC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7327D9BB-9E25-4BCE-AEB8-F25EC69E690E}|BestStoreMVC\\BestStoreMVC.csproj|d:\\work with shykat vai\\crud operation using asp.net core mvc\\beststoremvc\\beststoremvc\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7327D9BB-9E25-4BCE-AEB8-F25EC69E690E}|BestStoreMVC\\BestStoreMVC.csproj|solutionrelative:beststoremvc\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7327D9BB-9E25-4BCE-AEB8-F25EC69E690E}|BestStoreMVC\\BestStoreMVC.csproj|d:\\work with shykat vai\\crud operation using asp.net core mvc\\beststoremvc\\beststoremvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7327D9BB-9E25-4BCE-AEB8-F25EC69E690E}|BestStoreMVC\\BestStoreMVC.csproj|solutionrelative:beststoremvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7327D9BB-9E25-4BCE-AEB8-F25EC69E690E}|BestStoreMVC\\BestStoreMVC.csproj|d:\\work with shykat vai\\crud operation using asp.net core mvc\\beststoremvc\\beststoremvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7327D9BB-9E25-4BCE-AEB8-F25EC69E690E}|BestStoreMVC\\BestStoreMVC.csproj|solutionrelative:beststoremvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7327D9BB-9E25-4BCE-AEB8-F25EC69E690E}|BestStoreMVC\\BestStoreMVC.csproj|d:\\work with shykat vai\\crud operation using asp.net core mvc\\beststoremvc\\beststoremvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7327D9BB-9E25-4BCE-AEB8-F25EC69E690E}|BestStoreMVC\\BestStoreMVC.csproj|solutionrelative:beststoremvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{7327D9BB-9E25-4BCE-AEB8-F25EC69E690E}|BestStoreMVC\\BestStoreMVC.csproj|d:\\work with shykat vai\\crud operation using asp.net core mvc\\beststoremvc\\beststoremvc\\migrations\\20241224065424_firstmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7327D9BB-9E25-4BCE-AEB8-F25EC69E690E}|BestStoreMVC\\BestStoreMVC.csproj|solutionrelative:beststoremvc\\migrations\\20241224065424_firstmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7327D9BB-9E25-4BCE-AEB8-F25EC69E690E}|BestStoreMVC\\BestStoreMVC.csproj|d:\\work with shykat vai\\crud operation using asp.net core mvc\\beststoremvc\\beststoremvc\\services\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7327D9BB-9E25-4BCE-AEB8-F25EC69E690E}|BestStoreMVC\\BestStoreMVC.csproj|solutionrelative:beststoremvc\\services\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7327D9BB-9E25-4BCE-AEB8-F25EC69E690E}|BestStoreMVC\\BestStoreMVC.csproj|d:\\work with shykat vai\\crud operation using asp.net core mvc\\beststoremvc\\beststoremvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{7327D9BB-9E25-4BCE-AEB8-F25EC69E690E}|BestStoreMVC\\BestStoreMVC.csproj|solutionrelative:beststoremvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{7327D9BB-9E25-4BCE-AEB8-F25EC69E690E}|BestStoreMVC\\BestStoreMVC.csproj|d:\\work with shykat vai\\crud operation using asp.net core mvc\\beststoremvc\\beststoremvc\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7327D9BB-9E25-4BCE-AEB8-F25EC69E690E}|BestStoreMVC\\BestStoreMVC.csproj|solutionrelative:beststoremvc\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,53 +50,81 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Work with Shykat vai\\CRUD operation using ASP.NET core MVC\\BestStoreMVC\\BestStoreMVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "BestStoreMVC\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Work with Shykat vai\\CRUD operation using ASP.NET core MVC\\BestStoreMVC\\BestStoreMVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "BestStoreMVC\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAiwAYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T10:22:47.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Product.cs",
               "DocumentMoniker": "D:\\Work with Shykat vai\\CRUD operation using ASP.NET core MVC\\BestStoreMVC\\BestStoreMVC\\Models\\Product.cs",
               "RelativeDocumentMoniker": "BestStoreMVC\\Models\\Product.cs",
               "ToolTip": "D:\\Work with Shykat vai\\CRUD operation using ASP.NET core MVC\\BestStoreMVC\\BestStoreMVC\\Models\\Product.cs",
               "RelativeToolTip": "BestStoreMVC\\Models\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAABoAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-24T00:47:13.832Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Work with Shykat vai\\CRUD operation using ASP.NET core MVC\\BestStoreMVC\\BestStoreMVC\\Program.cs",
-              "RelativeDocumentMoniker": "BestStoreMVC\\Program.cs",
-              "ToolTip": "D:\\Work with Shykat vai\\CRUD operation using ASP.NET core MVC\\BestStoreMVC\\BestStoreMVC\\Program.cs",
-              "RelativeToolTip": "BestStoreMVC\\Program.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-23T12:27:42.754Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "D:\\Work with Shykat vai\\CRUD operation using ASP.NET core MVC\\BestStoreMVC\\BestStoreMVC\\Services\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "BestStoreMVC\\Services\\ApplicationDbContext.cs",
-              "ToolTip": "D:\\Work with Shykat vai\\CRUD operation using ASP.NET core MVC\\BestStoreMVC\\BestStoreMVC\\Services\\ApplicationDbContext.cs",
-              "RelativeToolTip": "BestStoreMVC\\Services\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-23T12:23:53.174Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\Work with Shykat vai\\CRUD operation using ASP.NET core MVC\\BestStoreMVC\\BestStoreMVC\\appsettings.json",
               "RelativeDocumentMoniker": "BestStoreMVC\\appsettings.json",
               "ToolTip": "D:\\Work with Shykat vai\\CRUD operation using ASP.NET core MVC\\BestStoreMVC\\BestStoreMVC\\appsettings.json",
               "RelativeToolTip": "BestStoreMVC\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAB7AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-23T11:15:23.936Z"
+              "WhenOpened": "2024-12-23T11:15:23.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Work with Shykat vai\\CRUD operation using ASP.NET core MVC\\BestStoreMVC\\BestStoreMVC\\Services\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "BestStoreMVC\\Services\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Work with Shykat vai\\CRUD operation using ASP.NET core MVC\\BestStoreMVC\\BestStoreMVC\\Services\\ApplicationDbContext.cs",
+              "RelativeToolTip": "BestStoreMVC\\Services\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T12:23:53.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20241224065424_FirstMigration.cs",
+              "DocumentMoniker": "D:\\Work with Shykat vai\\CRUD operation using ASP.NET core MVC\\BestStoreMVC\\BestStoreMVC\\Migrations\\20241224065424_FirstMigration.cs",
+              "RelativeDocumentMoniker": "BestStoreMVC\\Migrations\\20241224065424_FirstMigration.cs",
+              "ToolTip": "D:\\Work with Shykat vai\\CRUD operation using ASP.NET core MVC\\BestStoreMVC\\BestStoreMVC\\Migrations\\20241224065424_FirstMigration.cs",
+              "RelativeToolTip": "BestStoreMVC\\Migrations\\20241224065424_FirstMigration.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T06:54:24.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Work with Shykat vai\\CRUD operation using ASP.NET core MVC\\BestStoreMVC\\BestStoreMVC\\Program.cs",
+              "RelativeDocumentMoniker": "BestStoreMVC\\Program.cs",
+              "ToolTip": "D:\\Work with Shykat vai\\CRUD operation using ASP.NET core MVC\\BestStoreMVC\\BestStoreMVC\\Program.cs",
+              "RelativeToolTip": "BestStoreMVC\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T12:27:42.754Z",
+              "EditorCaption": ""
             }
           ]
         }
